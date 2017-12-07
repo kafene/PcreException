@@ -3,7 +3,7 @@
     "description": "An exception class for PCRE engine errors",
     "keywords": ["pcre", "preg", "exception", "error", "errors", "regex", "regexp"],
     "homepage": "http://github.com/kafene/pcre-exception",
-    "license": "MIT",
+    "license": "MPL-2.0",
     "require": {"php": ">=7.1"},
     "autoload": {"classmap": ["PcreException.php"]},
     "autoload-dev": {"classmap": ["tests/"]},
